@@ -33,6 +33,15 @@ This portfolio showcases my technical writing work and the skills and technologi
 
 ## Featured Work
 
+### GitHub Documentation Workflow Guide
+
+A comprehensive, beginner-focused guide to creating, reviewing, and publishing documentation changes using GitHub's web interface. The project demonstrates procedural writing, Markdown authoring, GitHub branching, commits, pull requests, troubleshooting, and version-controlled documentation workflows.
+
+- [View the GitHub Documentation Workflow project](https://github.com/christinahelin/github-documentation-workflow)
+- [Read the GitHub Documentation Workflow Guide](https://github.com/christinahelin/github-documentation-workflow/blob/main/GITHUB-DOCUMENTATION-WORKFLOW.md)
+
+---
+
 ### TaskFlow Documentation
 
 A technical writing portfolio project for a fictional project management application. The project demonstrates task-based documentation, Markdown authoring, GitHub branching, pull requests, and version-controlled documentation workflows.
@@ -41,6 +50,8 @@ A technical writing portfolio project for a fictional project management applica
 - [Getting Started with TaskFlow](https://github.com/christinahelin/taskflow-documentation/blob/main/docs/getting-started.md)
 - [View Your Assigned Tasks](https://github.com/christinahelin/taskflow-documentation/blob/main/docs/assigned-tasks.md)
 - [Update a Task Status](https://github.com/christinahelin/taskflow-documentation/blob/main/docs/update-task-status.md)
+
+---
 
 ### PTO Policy and Procedure Redesign
 
