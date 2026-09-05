@@ -41,3 +41,12 @@ A technical writing portfolio project for a fictional project management applica
 - [Getting Started with TaskFlow](https://github.com/christinahelin/taskflow-documentation/blob/main/docs/getting-started.md)
 - [View Your Assigned Tasks](https://github.com/christinahelin/taskflow-documentation/blob/main/docs/assigned-tasks.md)
 - [Update a Task Status](https://github.com/christinahelin/taskflow-documentation/blob/main/docs/update-task-status.md)
+
+### PTO Policy and Procedure Redesign
+
+A technical writing case study demonstrating the redesign of a text-heavy employee PTO policy and procedure into structured, user-focused documentation. The project demonstrates information architecture, content analysis, procedural writing, readability improvements, and documentation redesign.
+
+- [View the PTO Policy and Procedure Redesign](https://github.com/christinahelin/pto-policy-procedure-redesign)
+- [View the Original PTO Policy and Procedure](https://github.com/christinahelin/pto-policy-procedure-redesign/blob/main/original/employee-pto-policy-procedure.md)
+- [View the Redesigned PTO Policy and Procedure](https://github.com/christinahelin/pto-policy-procedure-redesign/blob/main/employee-pto-policy-procedure.md)
+- [Read the Redesign Case Study](https://github.com/christinahelin/pto-policy-procedure-redesign/blob/main/CASE-STUDY.md)
